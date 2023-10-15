@@ -1,4 +1,4 @@
-# boston file explanation
+# Boston file explanation
 
 This HTML and JavaScript code fetches data from an external module, sorts it, and then displays the top 5 results in an HTML element. Here's a step-by-step explanation:
 
