@@ -16,10 +16,6 @@ This HTML and JavaScript code fetches data from an external module, sorts it, an
 
 7   - After sorting the data, the code selects the top 5 entries and stores them in the `output` variable using the `slice` method.
 
-   - A loop iterates through the "output" data and builds an HTML string (`ele`) containing `<h1>` elements displaying data from the 9th (index 8) and 12th (index 11) columns of each entry.
-
- 8  - The sorted and formatted data is then added to the HTML element with the id "app" using `document.getElementById("app").innerHTML`.
-
 In summary, this script imports data from an external module, sorts it based on certain criteria, and displays the top 5 results in an HTML element with the id "app." 
 
 
