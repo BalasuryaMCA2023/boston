@@ -28,4 +28,4 @@ https://github.com/BalasuryaMCA2023/boston/assets/139736173/8a568836-391b-4999-b
 
 # Future improvements
 
-This program only finds the 5 top shows in Boston Data Top salaries person  Future improvements for show the low salaries persons and high salaries person compression it 
+This program only finds the 5 top shows in Boston Data Top salaries person  Future improvements for show the low salaries persons and high salaries person compare it 
